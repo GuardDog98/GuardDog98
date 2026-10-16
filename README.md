@@ -1,31 +1,44 @@
 # Hello, world! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+GuardDog98;Developer;Problem+Solver;Always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=7C3AED&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+GuardDog98;Developer;Game+Builder;Always+learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
 
 Hi — I'm <b>GuardDog98</b>, a developer focused on building clean, fast, and user-friendly digital experiences.
 
-I enjoy turning ideas into polished interfaces and thoughtful product experiences. I care about readable code, good UX, and continuous learning.
+I enjoy turning ideas into polished interfaces, playful prototypes, and tools that feel smooth to use. I care about readable code, good UX, and continuous learning.
 
 ---
 
 ### About me
-- 🔧 I build with JavaScript, React, and other modern web tools.
+- 🔧 I build with JavaScript, React, Node.js, and modern web tooling.
+- 🎮 I also enjoy game-oriented projects and interactive prototyping.
 - 🚀 I love improving user experience and shipping practical solutions.
-- 📚 I’m always learning, refining my skills, and exploring smarter ways to build.
+- 📚 I’m always learning, iterating, and exploring better ways to build.
 
 ### Current focus
 - Frontend development and modern web interfaces
-- Small, reliable tools and developer workflows
+- Game prototypes and interactive experiences
 - Clean architecture and maintainable code
+
+---
+
+### Featured projects
+<p align="left">
+  <a href="https://github.com/GuardDog98/jele-runner-3d">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuardDog98&repo=jele-runner-3d&theme=tokyonight" alt="Jele Runner 3D" />
+  </a>
+  <a href="https://github.com/GuardDog98/jele-runner-android">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuardDog98&repo=jele-runner-android&theme=tokyonight" alt="Jele Runner Android" />
+  </a>
+</p>
 
 ---
 
