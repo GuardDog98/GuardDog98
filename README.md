@@ -1,7 +1,9 @@
-# Hello, world! 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat hello" width="280" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=7C3AED&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+GuardDog98;Developer;Game+Builder;Always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=7C3AED&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+GuardDog98;Developer;Game+Builder;Always+learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,9 +13,18 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
 
-Hi — I'm <b>GuardDog98</b>, a developer focused on building clean, fast, and user-friendly digital experiences.
+<p align="center">
+  <img src="https://img.shields.io/badge/Neon-Design-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Neon design" />
+  <img src="https://img.shields.io/badge/UX-%2B+Code-00D8FF?style=flat-square&logo=codepen&logoColor=black" alt="UX + Code" />
+</p>
 
-I enjoy turning ideas into polished interfaces, playful prototypes, and tools that feel smooth to use. I care about readable code, good UX, and continuous learning.
+<h3 align="center" style="color:#7C3AED; text-shadow:0 0 10px rgba(124,58,237,0.9), 0 0 18px rgba(124,58,237,0.8);">
+  Hi — I'm <b>GuardDog98</b>, a developer focused on building clean, fast, and user-friendly digital experiences.
+</h3>
+
+<p align="center">
+  I enjoy turning ideas into polished interfaces, playful prototypes, and tools that feel smooth to use. I care about readable code, good UX, and continuous learning.
+</p>
 
 ---
 
@@ -43,8 +54,8 @@ I enjoy turning ideas into polished interfaces, playful prototypes, and tools th
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuardDog98&show_icons=true&theme=tokyonight" alt="GuardDog98 GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuardDog98&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuardDog98&show_icons=true&theme=tokyonight&hide_border=true" alt="GuardDog98 GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuardDog98&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
