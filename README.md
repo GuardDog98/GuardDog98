@@ -40,12 +40,12 @@
       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat hello" width="220" style="display:block;border-radius:10px;" />
     </div>
 
-    <div style="width:100%; max-width:640px; padding:12px 18px; border-radius:12px; background:linear-gradient(135deg, rgba(124,58,237,0.10), rgba(0,216,255,0.04)); box-shadow:0 14px 40px rgba(124,58,237,0.12); border:1px solid rgba(124,58,237,0.14); box-sizing:border-box; margin:0 auto;">
+    <div style="width:100%; max-width:640px; padding:12px 18px; border-radius:12px; background:linear-gradient(135deg, rgba(124,58,237,0.08), rgba(0,216,255,0.03)); box-shadow:0 10px 20px rgba(124,58,237,0.10); border:1px solid rgba(124,58,237,0.12); box-sizing:border-box; margin:0 auto;">
       <img
         src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=E9D5FF&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+GuardDog98;Developer+%2F+Game+Builder;Always+learning"
         alt="Typing SVG"
         style="display:block; width:100%; max-width:520px; height:auto; border-radius:6px; margin:0 auto;" />
-      <p style="margin:8px 0 0; color:#E6EEF8; text-shadow:0 0 8px rgba(124,58,237,0.15); line-height:1.4; font-size:14px;">
+      <p style="margin:8px 0 0; color:#E6EEF8; line-height:1.4; font-size:14px;">
         Building clean, fast, and user‑friendly digital experiences — frontends, tools and playful prototypes.
       </p>
     </div>
