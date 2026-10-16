@@ -16,9 +16,13 @@
     <rect x="0" y="0" width="1200" height="72" fill="url(#accent)" />
   </svg>
 
-  <h1 style="margin:6px 0 4px;color:#0EA5E9;">Hi — I'm <strong>GuardDog98</strong></h1>
+  <h1 style="margin:6px 0 4px;color:#0EA5E9;">Hi — I'm 👋 <strong>GuardDog98</strong></h1>
   <p style="margin:0 0 12px;color:#94A3B8;max-width:720px;">Building clean, fast, and user-friendly digital experiences — frontends, tools and playful prototypes.</p>
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat hello" width="180" style="border-radius:10px;"/>
+</p>
 
 ---
 
