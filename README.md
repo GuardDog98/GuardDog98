@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat hello" width="180" style="border-radius:10px;"/>
+  <img src="https://media.giphy.com/media/26BROrSHl3cD8m6s8/giphy.gif" alt="tech pulse" width="180" style="border-radius:10px;"/>
 </p>
 
 ---
