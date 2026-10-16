@@ -1,4 +1,4 @@
-<!-- Animated SVG background + neon theme + 3D-ish glass project cards + social badges -->
+<!-- Animated SVG background + neon theme + 3D-ish glass project cards + social badges removed -->
 
 <div align="center">
   <!-- Animated SVG background (subtle moving gradient) -->
@@ -97,10 +97,5 @@
 
 
 <p align="center" style="margin-top:8px;">
-  <!-- Social badges (update with your links if you want) -->
-  <a href="https://github.com/GuardDog98"><img src="https://img.shields.io/badge/GitHub-GuardDog98-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <img src="https://komarev.com/ghpvc/?username=GuardDog98&color=7C3AED&style=flat-square" alt="Profile views" />
 </p>
