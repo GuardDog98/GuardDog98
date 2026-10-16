@@ -46,7 +46,3 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuardDog98&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
-
----
-
-If you'd like any small tweak (color, font size, or change the gif), tell me which one and I'll update it without breaking layout.
